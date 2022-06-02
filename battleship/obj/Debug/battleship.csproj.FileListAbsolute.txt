@@ -1,0 +1,8 @@
+C:\Users\gara8\OneDrive\Documents\battleship\bin\Debug\battleship.exe.config
+C:\Users\gara8\OneDrive\Documents\battleship\bin\Debug\battleship.exe
+C:\Users\gara8\OneDrive\Documents\battleship\bin\Debug\battleship.pdb
+C:\Users\gara8\OneDrive\Documents\battleship\obj\Debug\battleship.csproj.AssemblyReference.cache
+C:\Users\gara8\OneDrive\Documents\battleship\obj\Debug\battleship.csproj.SuggestedBindingRedirects.cache
+C:\Users\gara8\OneDrive\Documents\battleship\obj\Debug\battleship.csproj.CoreCompileInputs.cache
+C:\Users\gara8\OneDrive\Documents\battleship\obj\Debug\battleship.exe
+C:\Users\gara8\OneDrive\Documents\battleship\obj\Debug\battleship.pdb
